@@ -9,3 +9,8 @@
 **/.vs/**
 **/x64/**
 *.log
+
+/cmake-build-*/**
+/.idea/**
+/.cache/**
+/.vscode/**
